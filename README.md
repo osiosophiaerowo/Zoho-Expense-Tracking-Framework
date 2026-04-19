@@ -26,19 +26,31 @@ A total of **$1,444.70** was recorded across five expenses:
 
 - **Fairmont Austin Hotel** – $825.00  
   Category: Lodging  
-  Description: Accommodation during the summit  
+  Description: Accommodation during the summit
+
+  <img width="818" height="523" alt="Lodging Expenses" src="https://github.com/user-attachments/assets/8abee099-fe38-4572-bff9-d798bcb722f2" />
+
 
 - **Terry Black’s BBQ** – $65.00  
   Category: Meals  
-  Description: Business meal (**Billable to client**)  
+  Description: Business meal (**Billable to client**)
+
+  <img width="819" height="579" alt="Meal Expenses Billed To Global Tech" src="https://github.com/user-attachments/assets/3894bc3a-703d-4b44-adea-fd89192f3fae" />
+
 
 - **Tech-Stop UK Gift** – $74.25  
   Category: Other Expenses  
-  Description: Business-related purchase  
+  Description: Business-related purchase
+
+  <img width="821" height="607" alt="Gift paid for in GBP" src="https://github.com/user-attachments/assets/7aaea69d-f41e-4148-b5ca-d0e6289fdf2e" />
+
 
 - **Mileage** – $30.45  
   Category: Fuel/Mileage  
-  Description: 42 miles reimbursed  
+  Description: 42 miles reimbursed
+
+  <img width="849" height="609" alt="Mileage Expenses" src="https://github.com/user-attachments/assets/d73136ed-c560-451b-b4a8-84a875691bb5" />
+
 
 ---
 
@@ -59,7 +71,7 @@ This ensured accurate financial reporting and clear visibility on the Balance Sh
 
 ### Watchlist Configuration
 - Added **Due to Owner** to the dashboard watchlist  
-- Enabled real-time visibility of total liabilities ($1,444.70)  
+- Enabled real-time visibility of total liabilities ($1,444.56)  
 
 ### Reports Used
 - **Expenses by Category Report**
@@ -97,5 +109,14 @@ This ensured accurate financial reporting and clear visibility on the Balance Sh
 ---
 
 ## 📸 Screenshots 
+
+Expense Entries
+
+<img width="1361" height="642" alt="Zoho All Expenses" src="https://github.com/user-attachments/assets/fcaf4f87-aeb3-4f35-b161-aeb15ff93fc4" />
+
+
+Expense Report
+
+<img width="1366" height="657" alt="Zoho Books Expense Summary" src="https://github.com/user-attachments/assets/fd646414-d1c8-49f9-8900-49bb0bef4a31" />
 
 ---
