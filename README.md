@@ -65,31 +65,32 @@ This ensured accurate financial reporting and clear visibility on the Balance Sh
 
 ---
 
-## ⚙️ Accounting Treatment
+## ⚙️ Key Implementations
 
-### Paid Through Logic
-All expenses were assigned to:
-- **Paid Through:** Due to Owner  
+### Expense Tracking Structure
+- All expenses assigned to **Due to Owner**
+- Prevents misclassification and improves accountability  
 
-This ensures:
-- No misclassification under petty cash  
-- Proper tracking of reimbursement obligations  
-
-### Billable Expense Handling
-- $65 (Meals) marked as **Billable**  
-- Linked to customer: Global Tech Corp  
-- Ready for client invoicing and cost recovery  
+### Billable Expense Setup
+- Meal expense marked as **billable**
+- Linked to a customer for invoicing  
+- Enables cost recovery  
 
 ---
 
-## 🧠 Key Learnings
+## 💼 Practical Application
 
-- Importance of using liability accounts for owner-funded expenses  
-- Proper categorization improves financial clarity and reporting  
-- Billable expenses help recover costs and improve profitability  
-- Dashboard customization enhances real-time decision-making  
+This project demonstrates a real-life workflow used in:
+
+- Business travel expense tracking  
+- Owner reimbursement management  
+- Billable expense handling for client work  
+- Financial reporting and monitoring  
+
+It reflects how businesses maintain accurate records, track liabilities, and recover expenses efficiently.
 
 ---
+
 
 ## 🚀 Tools Used
 
