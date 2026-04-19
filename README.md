@@ -19,7 +19,10 @@ A total of **$1,444.70** was recorded across five expenses:
 
 - **Delta Flight** – $450.00  
   Category: Travel  
-  Description: Business trip flight  
+  Description: Business trip flight
+
+  <img width="822" height="570" alt="Travel Expense" src="https://github.com/user-attachments/assets/f251a10b-9e20-4dff-a42b-d5c0175575c5" />
+
 
 - **Fairmont Austin Hotel** – $825.00  
   Category: Lodging  
