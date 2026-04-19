@@ -78,6 +78,12 @@ This ensured accurate financial reporting and clear visibility on the Balance Sh
 
 ---
 
+## 📈 Results & Impact
+
+- Achieved accurate tracking of all business travel expenses  
+- Ensured proper classification across 5 expense categories  
+- Enabled visibility of reimbursement obligations  
+- Identified billable expense for client cost recovery
 
 ## 🚀 Tools Used
 
