@@ -78,19 +78,6 @@ This ensured accurate financial reporting and clear visibility on the Balance Sh
 
 ---
 
-## 💼 Practical Application
-
-This project demonstrates a real-life workflow used in:
-
-- Business travel expense tracking  
-- Owner reimbursement management  
-- Billable expense handling for client work  
-- Financial reporting and monitoring  
-
-It reflects how businesses maintain accurate records, track liabilities, and recover expenses efficiently.
-
----
-
 
 ## 🚀 Tools Used
 
@@ -100,19 +87,6 @@ It reflects how businesses maintain accurate records, track liabilities, and rec
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add screenshots of:
-- Expense entries  
-- Chart of accounts  
-- Dashboard watchlist  
-- Reports  
+## 📸 Screenshots 
 
 ---
-
----
-
-## 👩‍💼 Author
-
-Osio Sophia 
-Finance & Virtual Assistant | Expense Tracking | Zoho Books
